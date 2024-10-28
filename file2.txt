@@ -1,1 +1,1 @@
-SCOPE INDIA
+Hello from local machine
